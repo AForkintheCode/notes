@@ -1,5 +1,8 @@
 # Note Taker app
 The app can be found [here](https://bc-notetaker.herokuapp.com/)
+[start](/assets/start.JPG)
+[list](/assets/grocery.JPG)
+
 
   ## Description
   This was designed to get a better understanding of back-end development.  Node.js, express, and other modules were used to route user interactions properly.
