@@ -1,7 +1,7 @@
 # Note Taker app
 The app can be found [here](https://bc-notetaker.herokuapp.com/)
-![start](start.JPG)
-![list](grocery.JPG)
+![start](./assets/start.JPG)
+![list](./assets/grocery.JPG)
 
 
   ## Description
