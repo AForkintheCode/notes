@@ -5,7 +5,7 @@ The app can be found [here](https://bc-notetaker.herokuapp.com/)
 
 
   ## Description
-  This was designed to get a better understanding of back-end development.  Node.js, express, and other modules were used to route user interactions properly.
+  This was designed to utilize Node.js, express, and other modules on static html pages to properly route user interactions.
 
   ## Table of Contents
 
